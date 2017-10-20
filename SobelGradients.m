@@ -1,3 +1,7 @@
+% Vittorio Longi
+% CS 559 - Computer Vision
+% Gradient calculator using Sobel kernels
+
 clear all
 clc
 
